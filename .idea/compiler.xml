@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lab13" />
+        <module name="lab11" />
+        <module name="practice12" />
+        <module name="practice10" />
+        <module name="lab14" />
+      </profile>
+      <profile name="Annotation profile for practices" enabled="true">
+        <sourceOutputDir name="../../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="application" />
+        <module name="application (4)" />
+        <module name="application (3)" />
+        <module name="application (2)" />
+      </profile>
+      <profile name="Annotation profile for application (1)" enabled="true">
+        <sourceOutputDir name="../Lab17/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../Lab17/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="application (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="application" target="15" />
+      <module name="application (1)" target="15" />
+      <module name="application (2)" target="15" />
+      <module name="application (3)" target="15" />
+      <module name="application (4)" target="15" />
+      <module name="Java_labs_patterns" target="9" />
+      <module name="lab11" target="15" />
+      <module name="lab13" target="15" />
+      <module name="lab14" target="15" />
+      <module name="practice10" target="9" />
+      <module name="practice12" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Java_labs_patterns" options="-parameters" />
+      <module name="application" options="-parameters" />
+      <module name="application (1)" options="-parameters" />
+      <module name="application (2)" options="-parameters" />
+      <module name="application (3)" options="-parameters" />
+      <module name="application (4)" options="-parameters" />
+      <module name="lab11" options="-parameters" />
+      <module name="lab13" options="-parameters" />
+      <module name="lab14" options="-parameters" />
+      <module name="practice10" options="-parameters" />
+      <module name="practice12" options="-parameters" />
+    </option>
+  </component>
+</project>

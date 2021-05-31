@@ -1,0 +1,13 @@
+# Project exclude paths
+/out/
+# Project exclude paths
+/src/main/java/Lab10/target/
+/src/main/java/Lab11/target/
+/src/main/java/Lab12/target/
+/src/main/java/Lab13/target/
+/src/main/java/Lab14/target/
+/src/main/java/Lab17/target/
+/src/main/java/Lab20/target/
+/src/main/java/Lab21/target/
+/src/main/java/Lab22/target/
+/src/main/java/Lab23/target/

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Lab10/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Lab11/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Lab12/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Lab13/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Lab17/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Lab20/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Lab21/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Lab22/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Lab23/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Lab14/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" default="true" project-jdk-name="openjdk-15" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

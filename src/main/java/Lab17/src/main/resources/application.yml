@@ -1,0 +1,15 @@
+server:
+  port: 8081
+spring:
+  mvc:
+    hiddenmethod:
+      filter:
+        enabled: true
+  datasource:
+    url: jdbc:postgresql://localhost:5432/felikstitov
+    username: felikstitov
+    password: 12345678
+  jpa:
+    database: postgresql
+    hibernate:
+      ddl-auto: update

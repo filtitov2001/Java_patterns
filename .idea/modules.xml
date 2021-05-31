@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/Lab17/application.iml" filepath="$PROJECT_DIR$/src/main/java/Lab17/application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/Lab20/application (1).iml" filepath="$PROJECT_DIR$/src/main/java/Lab20/application (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/Lab21/application (2).iml" filepath="$PROJECT_DIR$/src/main/java/Lab21/application (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/Lab22/application (3).iml" filepath="$PROJECT_DIR$/src/main/java/Lab22/application (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/Lab23/application (4).iml" filepath="$PROJECT_DIR$/src/main/java/Lab23/application (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/Lab11/lab11.iml" filepath="$PROJECT_DIR$/src/main/java/Lab11/lab11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/Lab13/lab13.iml" filepath="$PROJECT_DIR$/src/main/java/Lab13/lab13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/Lab14/lab14.iml" filepath="$PROJECT_DIR$/src/main/java/Lab14/lab14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/Lab10/practice10.iml" filepath="$PROJECT_DIR$/src/main/java/Lab10/practice10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/Lab12/practice12.iml" filepath="$PROJECT_DIR$/src/main/java/Lab12/practice12.iml" />
+    </modules>
+  </component>
+</project>
